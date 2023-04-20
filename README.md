@@ -17,8 +17,8 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     11 hrs 54 mins  ██████████████▓░░░░░░░░░░   58.21 %
-Other        8 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   39.20 %
+Markdown     15 hrs 35 mins  ███████████████▒░░░░░░░░░   61.44 %
+Other        8 hrs 27 mins   ████████▒░░░░░░░░░░░░░░░░   33.31 %
 ```
 
 <!--END_SECTION:waka-->
