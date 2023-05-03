@@ -17,7 +17,7 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```text
-Other      5 hrs 45 mins   ███████████████████████▒░   93.91 %
+Other         13 hrs 48 mins  ███████████████▓░░░░░░░░░   62.51 %
 ```
 
 <!--END_SECTION:waka-->
