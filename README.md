@@ -17,7 +17,11 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```text
-Other        14 hrs 34 mins  █████████████████░░░░░░░░   67.37 %
+Other        14 hrs 13 mins  ██████████████▒░░░░░░░░░░   57.73 %
+LLVM         4 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+Go           2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Markdown     2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+C++          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
