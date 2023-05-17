@@ -17,11 +17,11 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```text
-Other            16 hrs 55 mins  ██████████▒░░░░░░░░░░░░░░   41.68 %
-Markdown         11 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   27.38 %
-LLVM             6 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
-Go               3 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Bash             1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Other            16 hrs 22 mins  ███████████▒░░░░░░░░░░░░░   45.82 %
+Markdown         7 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+LLVM             6 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+Go               2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Bash             1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
