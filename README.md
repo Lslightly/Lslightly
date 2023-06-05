@@ -17,11 +17,11 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```txt
-C++           11 hrs 22 mins  ███████████▒░░░░░░░░░░░░░   45.99 %
-JSON          4 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-Go            3 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-Markdown      3 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
-TypeScript    48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+C++           11 hrs 23 mins  ███████████▒░░░░░░░░░░░░░   45.80 %
+JSON          4 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
+Go            3 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Markdown      3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.15 %
+TypeScript    48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
