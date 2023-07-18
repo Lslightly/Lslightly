@@ -17,7 +17,11 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   58 mins         █████████████████████████   100.00 %
+C++        4 hrs 38 mins   ███████████████████▓░░░░░   79.08 %
+Markdown   58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+Text       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Go         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
