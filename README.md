@@ -17,11 +17,11 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```txt
-Go                8 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.87 %
-C++               4 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
-Markdown          2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Other             1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Text              1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Go               8 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   46.05 %
+Markdown         2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Text             1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+ca65 assembler   1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Other            1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
 ```
 
 <!--END_SECTION:waka-->
