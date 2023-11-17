@@ -17,13 +17,13 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 40 hrs 57 mins
+Total Time: 41 hrs 19 mins
 
-Other         21 hrs 51 mins  █████████████▒░░░░░░░░░░░   53.35 %
-C++           7 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Markdown      3 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Go            1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-C             1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Other         28 hrs 19 mins  █████████████████░░░░░░░░   68.55 %
+TeX           2 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Go            2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Markdown      2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Bash          1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
