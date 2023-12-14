@@ -14,6 +14,8 @@ So, To Be Better, Always Change!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lslightly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lslightly/langs)](https://githubtrends.io)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -28,5 +30,5 @@ C++           2 hrs 52 mins   █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-date:2023/4/5
+date:2023/12/14
 
