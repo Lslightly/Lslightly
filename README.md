@@ -14,8 +14,6 @@ So, To Be Better, Always Change!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lslightly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Lslightly/langs)](https://githubtrends.io)
-
 <!--START_SECTION:waka-->
 
 ```txt
