@@ -17,13 +17,13 @@ So, To Be Better, Always Change!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 48 hrs 43 mins
+Total Time: 57 hrs 47 mins
 
-Other        35 hrs 10 mins  ██████████████████░░░░░░░   72.18 %
-Markdown     3 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-C            2 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Rust         2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Python       1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Other          26 hrs 33 mins  ███████████▒░░░░░░░░░░░░░   45.95 %
+Python         13 hrs 8 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+Markdown       8 hrs 37 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+sh             3 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+C++            2 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
