@@ -5,11 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 35 mins
+Total Time: 34 hrs 56 mins
 
-Other      9 hrs 9 mins    ████████████████████████░   95.57 %
-Markdown   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other       34 hrs 10 mins  ████████████████████████▒   97.83 %
+Markdown    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Bash        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TeX         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+CSV         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
