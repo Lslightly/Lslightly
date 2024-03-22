@@ -5,12 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 41 hrs 34 mins
+Total Time: 49 hrs 41 mins
 
-Other      39 hrs 21 mins  ███████████████████████▓░   94.69 %
-Markdown   2 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-Go         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        46 hrs 17 mins  ███████████████████████▒░   93.15 %
+Markdown     2 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Python       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+sshconfig    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Lua          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
