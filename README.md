@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 49 hrs 41 mins
+Total Time: 61 hrs 33 mins
 
-Other        46 hrs 17 mins  ███████████████████████▒░   93.15 %
-Markdown     2 hrs 54 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Python       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-sshconfig    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Lua          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other             52 hrs 31 mins  █████████████████████▒░░░   85.32 %
+Markdown          5 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+TypeScript        1 hr 59 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+PowerShell        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JSON              27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
