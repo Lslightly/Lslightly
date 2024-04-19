@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 55 hrs 51 mins
+Total Time: 50 hrs 56 mins
 
-Other          51 hrs 19 mins  ███████████████████████░░   91.87 %
-Markdown       2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Typst          1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Figma Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other      36 hrs 37 mins  ██████████████████░░░░░░░   71.91 %
+Typst      11 hrs 58 mins  ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Text       1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Markdown   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Git        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
