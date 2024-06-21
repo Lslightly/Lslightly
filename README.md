@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 46 hrs 1 min
+Total Time: 38 hrs 56 mins
 
-Other        34 hrs 5 mins   ██████████████████▓░░░░░░   74.09 %
-Markdown     7 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
-Typst        3 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-BibTeX       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other          30 hrs 26 mins  ███████████████████▓░░░░░   78.16 %
+TeX            3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Markdown       3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+BibTeX         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+OpenEdge ABL   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
