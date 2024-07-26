@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 40 hrs 59 mins
+Total Time: 33 hrs 27 mins
 
-Other        23 hrs 2 mins   ██████████████░░░░░░░░░░░   56.21 %
-TeX          8 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
-Markdown     5 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Haskell      2 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-YAML         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Other          19 hrs 57 mins  ███████████████░░░░░░░░░░   59.64 %
+TeX            10 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.96 %
+Haskell        1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Go             1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Markdown       38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
