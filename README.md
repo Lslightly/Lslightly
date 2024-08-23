@@ -5,13 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 39 mins
+Total Time: 17 hrs 19 mins
 
-Other        9 hrs 12 mins   █████████████████░░░░░░░░   67.41 %
-TeX          4 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.73 %
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-BibTeX       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-SSH Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TeX      9 hrs 1 min     █████████████░░░░░░░░░░░░   52.10 %
+Other    8 hrs 11 mins   ███████████▓░░░░░░░░░░░░░   47.29 %
+BibTeX   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Go       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
