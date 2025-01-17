@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 51 hrs 18 mins
+Total Time: 49 hrs 58 mins
 
-Other        37 hrs 47 mins  ██████████████████▒░░░░░░   73.61 %
-Markdown     8 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-OCaml        2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Bash         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-HTML         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Other        34 hrs 51 mins  █████████████████▒░░░░░░░   69.68 %
+Markdown     13 hrs 9 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+Typst        1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+C            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Git Config   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
