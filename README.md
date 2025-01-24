@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 49 hrs 58 mins
+Total Time: 55 hrs 53 mins
 
-Other        34 hrs 51 mins  █████████████████▒░░░░░░░   69.68 %
-Markdown     13 hrs 9 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-Typst        1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-C            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Git Config   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other              39 hrs 30 mins  █████████████████▓░░░░░░░   70.60 %
+Markdown           16 hrs 12 mins  ███████▒░░░░░░░░░░░░░░░░░   28.95 %
+Typst              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Git Config         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
