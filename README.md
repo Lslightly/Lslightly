@@ -37,4 +37,4 @@ TeX                  3 mins          ░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![Lslightly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lslightly\&layout=compact)
+![Lslightly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lslightly\&layout=compact)
