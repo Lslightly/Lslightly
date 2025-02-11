@@ -17,6 +17,7 @@ Bliefs:
 - Coding and Practice.
 - Keep Improving like Vim.
 - Offer Helps and Make Sense.
+- Cooperation creates. Races have no winners.
 - Seeking/Creating the Good in Life.
 
 > contact with me through email. Thanks!
