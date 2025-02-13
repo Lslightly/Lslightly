@@ -12,7 +12,7 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
 - workflows: VSCode, Obsidian+Excalidraw+Git, Overleaf.
 - keep improving: searching, evaluation, executing and English.
 
-Bliefs:
+Beliefs:
 - Believe Myself.
 - Coding and Practice.
 - Keep Improving like Vim.
