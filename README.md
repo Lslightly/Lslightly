@@ -27,13 +27,13 @@ Beliefs:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 43 hrs 13 mins
+Total Time: 55 hrs 27 mins
 
-Other                30 hrs 15 mins  █████████████████▓░░░░░░░   70.03 %
-Markdown             12 hrs 10 mins  ███████░░░░░░░░░░░░░░░░░░   28.16 %
-Git                  25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-LaTeX                16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-TeX                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other        26 hrs 17 mins  ████████████░░░░░░░░░░░░░   47.40 %
+Markdown     21 hrs 30 mins  █████████▓░░░░░░░░░░░░░░░   38.77 %
+YAML         3 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Go           2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+TOML         42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
