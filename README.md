@@ -38,4 +38,6 @@ TOML         42 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+Actual time of coding is little. That's the problem! ↓
+
 ![Lslightly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lslightly\&layout=compact)
