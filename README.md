@@ -8,7 +8,7 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
   - Not so good at command line and know a little bit.
 - Programming Languages: Go, C++(<=11, moving to 14/17/20), Python >> Rust, Haskell, OCaml, SystemVerilog >> JS, TS, Java
 - Known parts of CS(green hand): Compiler(traditional), Arch, Database, AI(<=2010, that is searching, constraint solvers and traditional ML methods), Formal Methods(few concepts)
-- Unknown parts of CS: OS(know few concepts), Distributed System, Security(know few concepts), Reinforcement Learning, Software Engineering(know few concepts), MLSys, Big Data Algorithm, Deep Learning, Graphics, Web, Advanced Data Structures, Network(know few concepts)
+- Unknown parts of CS: Web(Crawler, Frontend, Greasy Fork), OS(know few concepts), Distributed System, Security(know few concepts), Reinforcement Learning, Software Engineering(know few concepts), MLSys, Big Data Algorithm, Deep Learning, Graphics, Advanced Data Structures, Network(know few concepts)
 - workflows: VSCode, Obsidian+Excalidraw+Git, Overleaf.
 - keep improving: searching, evaluation, executing and English.
 
