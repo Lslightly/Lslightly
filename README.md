@@ -20,6 +20,9 @@ Beliefs:
 - Cooperation creates. Races have no winners.
 - Seeking/Creating the Good in Life.
 
+
+![My Story](story.svg)
+
 > contact with me through email. Thanks!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lslightly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
