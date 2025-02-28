@@ -30,13 +30,13 @@ Beliefs:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 38 mins
+Total Time: 34 hrs 51 mins
 
-Markdown      18 hrs 38 mins  ████████████████▒░░░░░░░░   65.10 %
-Go            5 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-Python        2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-YAML          50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Bash          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Markdown      17 hrs 11 mins  ████████████▒░░░░░░░░░░░░   49.32 %
+Rust          6 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+Go            4 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+C++           2 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+JSON          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
