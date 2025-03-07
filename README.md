@@ -41,6 +41,3 @@ Python       1 hr 38 mins    █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-Actual time of coding and deep thinking is little. That's the problem! ↓
-
-![Lslightly's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lslightly\&layout=compact)
