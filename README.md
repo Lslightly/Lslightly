@@ -30,15 +30,15 @@ Beliefs:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 40 hrs 1 min
+Total Time: 59 hrs 45 mins
 
-Markdown     20 hrs 31 mins  ████████████▓░░░░░░░░░░░░   51.26 %
-Go           8 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-TypeScript   2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-C++          1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Python       1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-JSON         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Rust         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Markdown     28 hrs 55 mins  ████████████░░░░░░░░░░░░░   48.40 %
+Go           17 hrs 46 mins  ███████▒░░░░░░░░░░░░░░░░░   29.74 %
+TypeScript   4 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+JSON         3 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Bash         1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Text         1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+PowerShell   39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
