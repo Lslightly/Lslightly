@@ -4,7 +4,7 @@ I'm Lslightly. I have broad interests and I just seek time to start them or I ha
 
 I am a CS graduate from USTC. After graduation, I got emo because I thought I didn't find my value. But actually it was there: trying new things and some practical tools.
 
-<div style="text-align: center">
+<div align="center">
 
 Operating Systems
 
@@ -15,7 +15,7 @@ Operating Systems
 
 > Not so good at command line and know a little bit.
 
-<div style="text-align: center">
+<div align="center">
 Programming Languages:
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="width: 30%;">
