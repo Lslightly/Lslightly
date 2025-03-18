@@ -5,44 +5,46 @@ I'm Lslightly. I have broad interests and I just seek time to start them or I ha
 I am a CS graduate from USTC. After graduation, I got emo because I thought I didn't find my value. But actually it was there: trying new things and some practical tools.
 
 <div align="center">
-
-Operating Systems
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-❌![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)❌
-
-</div>
-
-<div align="center">
-  <h3>Programming Languages</h3>
-  <table style="width: 100%; border-collapse: collapse;">
-    <thead>
-      <tr style="background-color: #f0f0f0;">
-        <th style="text-align: center; padding: 8px;">Most Comfortable With</th>
-        <th style="text-align: center; padding: 8px;">Familiar With</th>
-        <th style="text-align: center; padding: 8px;">Still Learning</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="text-align: center; padding: 8px;">
-          <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"><br>
-          <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"><br>
-          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-        </td>
-        <td style="text-align: center; padding: 8px;">
-          <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><br>
-          <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"><br>
-          <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
-        </td>
-        <td style="text-align: center; padding: 8px;">
-          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"><br>
-          <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br>
-          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        </td>
-      </tr>
-    </tbody>
+  <table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="width: 50%; text-align: center; vertical-align: top;">
+        <h3 style="text-align: center;">Operating Systems</h3>
+        <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"><br>
+        ❌<img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="nVIDIA">❌
+      </td>
+      <td style="width: 50%; text-align: center; vertical-align: top;">
+        <h3 style="text-align: center;">Programming Languages</h3>
+        <table style="width: 100%; border-collapse: collapse; border: none;">
+          <thead>
+            <tr style="background-color: #f0f0f0;">
+              <th style="text-align: center; padding: 8px; border: none;">Most Comfortable With</th>
+              <th style="text-align: center; padding: 8px; border: none;">Familiar With</th>
+              <th style="text-align: center; padding: 8px; border: none;">Still Learning</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td style="text-align: center; padding: 8px; border: none;">
+                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"><br>
+                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"><br>
+                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+              </td>
+              <td style="text-align: center; padding: 8px; border: none;">
+                <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><br>
+                <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"><br>
+                <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
+              </td>
+              <td style="text-align: center; padding: 8px; border: none;">
+                <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"><br>
+                <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"><br>
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
   </table>
 </div>
 
