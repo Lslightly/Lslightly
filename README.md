@@ -27,7 +27,7 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
             <tr>
               <td style="text-align: center; padding: 8px; border: none;">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"><br>
-                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"><br>
+                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> <= 11, moving to modern<br>
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
               </td>
               <td style="text-align: center; padding: 8px; border: none;">
@@ -49,11 +49,15 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lslightly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-
-```txt
+<div align="center">
+  <table style="width: 100%;">
+    <tr>
+      <td style="text-align: center; width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lslightly&layout=compact">
+      </td>
+      <td style="text-align: center; width: 50%;">
+        <!--START_SECTION:waka-->
+        <pre>
 Total Time: 59 hrs 45 mins
 
 Markdown     28 hrs 55 mins  ████████████░░░░░░░░░░░░░   48.40 %
@@ -63,9 +67,12 @@ JSON         3 hrs 41 mins   █▓░░░░░░░░░░░░░░░
 Bash         1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 Text         1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 PowerShell   39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-```
-
-<!--END_SECTION:waka-->
+        </pre>
+        <!--END_SECTION:waka-->
+      </td>
+    </tr>
+  </table>
+</div>
 
 - Known parts of CS(green hand): Compiler(traditional), Arch, Database, AI(<=2010, that is searching, constraint solvers and traditional ML methods), Formal Methods(few concepts)
 - Unknown parts of CS: Web(Crawler, Browser, Frameworks), OS(know few concepts), Distributed System, Security(know few concepts), Reinforcement Learning, Software Engineering(know few concepts), MLSys(only CUDA Tutorial), Big Data Algorithm, Deep Learning, Graphics, Advanced Data Structures(No OI experience), Network(know few concepts), Verification(Coq, Lean, Type Theory)
