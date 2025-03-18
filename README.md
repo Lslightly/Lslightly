@@ -18,7 +18,7 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
         <table style="width: 100%; border-collapse: collapse; border: none;">
           <thead>
             <tr style="background-color: #f0f0f0;">
-              <th style="text-align: center; padding: 8px; border: none;">Most Comfortable With</th>
+              <th style="text-align: center; padding: 8px; border: none;">Comfortable With</th>
               <th style="text-align: center; padding: 8px; border: none;">Familiar With</th>
               <th style="text-align: center; padding: 8px; border: none;">Still Learning</th>
             </tr>
@@ -27,7 +27,7 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
             <tr>
               <td style="text-align: center; padding: 8px; border: none;">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"><br>
-                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> <= 11, moving to modern<br>
+                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"><br>
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
               </td>
               <td style="text-align: center; padding: 8px; border: none;">
