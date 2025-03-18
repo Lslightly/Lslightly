@@ -26,11 +26,12 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
           <tbody>
             <tr>
               <td style="text-align: center; padding: 8px; border: none;">
+                
+              </td>
+              <td style="text-align: center; padding: 8px; border: none;">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"><br>
                 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"><br>
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-              </td>
-              <td style="text-align: center; padding: 8px; border: none;">
                 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"><br>
                 <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"><br>
                 <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml">
