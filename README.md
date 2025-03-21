@@ -58,18 +58,20 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
       </td>
       <td style="text-align: center; width: 50%;">
         <!--START_SECTION:waka-->
-        <pre>
-Total Time: 59 hrs 45 mins
 
-Markdown     28 hrs 55 mins  ████████████░░░░░░░░░░░░░   48.40 %
-Go           17 hrs 46 mins  ███████▒░░░░░░░░░░░░░░░░░   29.74 %
-TypeScript   4 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JSON         3 hrs 41 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Bash         1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Text         1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-PowerShell   39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-        </pre>
-        <!--END_SECTION:waka-->
+```txt
+Total Time: 47 hrs 21 mins
+
+Markdown     35 hrs 51 mins  ███████████████████░░░░░░   75.70 %
+Python       3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Lean         2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Text         1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Go           1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Bash         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+TypeScript   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+```
+
+<!--END_SECTION:waka-->
       </td>
     </tr>
   </table>
