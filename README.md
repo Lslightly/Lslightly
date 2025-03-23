@@ -57,7 +57,7 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
         <img src="https://github-readme-stats.vercel.app/api?username=lslightly&show_icons=true&theme=transparent">
       </td>
       <td style="text-align: center; width: 50%;">
-        <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 Total Time: 47 hrs 21 mins
@@ -72,8 +72,7 @@ TypeScript   46 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-      </td>
-    </tr>
+
   </table>
 </div>
 
