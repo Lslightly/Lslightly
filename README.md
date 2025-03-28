@@ -60,15 +60,15 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 47 hrs 21 mins
+Total Time: 54 hrs 30 mins
 
-Markdown     35 hrs 51 mins  ███████████████████░░░░░░   75.70 %
-Python       3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Lean         2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Text         1 hr 30 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
-Go           1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Bash         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-TypeScript   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Markdown     35 hrs 39 mins  ████████████████▒░░░░░░░░   65.43 %
+Rust         15 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░░   28.49 %
+JSON         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Python       43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Go           29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Bash         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TOML         16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
