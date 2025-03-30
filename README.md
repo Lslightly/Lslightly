@@ -53,7 +53,6 @@ I am a CS graduate from USTC. After graduation, I got emo because I thought I di
   <table style="width: 100%;">
     <tr>
       <td style="text-align: center; width: 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lslightly&layout=compact">
         <img src="https://github-readme-stats.vercel.app/api?username=lslightly&show_icons=true&theme=transparent">
       </td>
       <td style="text-align: center; width: 50%;">
