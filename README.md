@@ -20,4 +20,4 @@ Text         13 mins         ░░░░░░░░░░░░░░░░░
 
 See [**About Me**](https://lslightly.github.io/about) for further information.
 
-> Contact with me through [email](mailto:lqw332664203@mail.ustc.edu.cn). Thanks!
+> Contact with me through email. Thanks!
