@@ -18,6 +18,6 @@ Text         13 mins         ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-See [**About Me**](https://lslightly.github.io/about) for further information.
+See [**About Me**](https://lslightly.github.io/about) and [**Resume**](https://github.com/Lslightly/resume) for further information.
 
 > Contact with me through email. Thanks!
