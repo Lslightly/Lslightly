@@ -20,4 +20,8 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 See [**About Me**](https://lslightly.github.io/about) and [**Resume**](https://github.com/Lslightly/resume) for further information.
 
+You are the ↓ visitor. Thanks for your time!
+
+![Visitor Count](https://profile-counter.glitch.me/Lslightly/count.svg)
+
 > Contact with me through email. Thanks!
