@@ -22,6 +22,6 @@ See [**About Me**](https://lslightly.github.io/about) and [**Resume**](https://g
 
 You are the ↓ visitor. Wow! So Special You Are! At least I believe!
 
-![Visitor Count](https://profile-counter.glitch.me/Lslightly/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLslightly&countColor=%23f47373)
 
 > Contact with me through email. Thanks!
