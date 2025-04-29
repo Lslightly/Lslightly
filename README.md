@@ -24,4 +24,4 @@ You are the ↓ visitor. Wow! So Special You Are! At least I believe!
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLslightly&countColor=%23f47373)
 
-> Contact with me through email. Thanks!
+> Contact with me through [email](mailto:lqw332664203@mail.ustc.edu.cn). Thanks!
