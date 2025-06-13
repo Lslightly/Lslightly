@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 41 mins
+Total Time: 4 hrs 18 mins
 
-Markdown     3 hrs 32 mins   ███████████████▓░░░░░░░░░   62.43 %
-Rust         1 hr 49 mins    ████████░░░░░░░░░░░░░░░░░   32.15 %
-Bash         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-PowerShell   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Markdown   2 hrs 35 mins   ███████████████░░░░░░░░░░   60.17 %
+Go         56 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.73 %
+Python     42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Bash       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
