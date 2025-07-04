@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 53 mins
+Total Time: 5 hrs 34 mins
 
-Markdown   1 hr 53 mins    █████████████████████████   100.00 %
+Markdown   5 hrs 34 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
