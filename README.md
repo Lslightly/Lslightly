@@ -5,15 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 43 mins
+Total Time: 1 hr 55 mins
 
-Go           1 hr 50 mins    ████████████▒░░░░░░░░░░░░   49.45 %
-Other        56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.39 %
-Lua          28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Rust         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Text         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Vim Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Markdown   1 hr 54 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
