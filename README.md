@@ -12,7 +12,7 @@ Markdown   1 hr 54 mins    █████████████████�
 
 <!--END_SECTION:waka-->
 
-See [**About Me**](https://lslightly.github.io/about) and [**Resume**](https://github.com/Lslightly/resume) for further information.
+See [**About Me**](https://lslightly.github.io/about) and [**Resume**](https://github.com/Lslightly/resume/blob/main/resume.pdf) for further information.
 
 You are the ↓ visitor. Wow! So Special You Are! At least I believe!
 
