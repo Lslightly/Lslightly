@@ -18,7 +18,7 @@ Bash         12 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-See [**About Me**](https://lslightly.github.io/about) and [**Resume**](https://github.com/Lslightly/resume/blob/main/resume.pdf) for further information.
+See [**About Me**](https://lslightly.github.io/about) and [**Resume**](https://github.com/Lslightly/resume-typ/blob/master/resume-cn.pdf)(Made by typst. Use pdf viewer which supports links for better experience) for further information.
 
 You are the ↓ visitor. Wow! So Special You Are! At least I believe!
 
