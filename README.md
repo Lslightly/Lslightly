@@ -5,10 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 54 mins
+Total Time: 8 hrs 14 mins
 
-Markdown   2 hrs 50 mins   ████████████████████████▒   97.78 %
-Other      3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Markdown     3 hrs 34 mins         ███████████░░░░░░░░░░░░░░   43.34 %
+Other        1 hr 14 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+Docker       1 hr 4 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Python       53 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+YAML         40 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
+JSON         25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Text         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
