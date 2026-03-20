@@ -30,7 +30,7 @@ You are the ↓ visitor. Wow! So Special You Are! At least I believe!
 
 Some interesting contributions to make work/life(no life now) easier and better, ordered by time:
 
-Doing now:
+stuck now(someday in June/July 2026 I will start):
 - [gopls](https://github.com/Lslightly/tools)
   - Why is the documentation of lambda function whose type is named and documented not shown? Jump **TWICE** Or Go To Browser to see the documentation? No!
 
