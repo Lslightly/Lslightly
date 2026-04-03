@@ -5,15 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 26 hrs 20 mins
+Total Time: 9 hrs 33 mins
 
-Markdown         10 hrs 44 mins        ██████████▒░░░░░░░░░░░░░░   40.76 %
-Go               9 hrs 28 mins         █████████░░░░░░░░░░░░░░░░   35.98 %
-SQL              1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-YAML             1 hr 29 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-CodeQL           54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-CSV              40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Other            28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Markdown     9 hrs 24 mins         ████████████████████████▓   98.34 %
+Python       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+SSH Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
