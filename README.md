@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Lslightly's GitHub stats](https://github-readme-stats.vercel.app/api?username=lslightly&show_icons=true&theme=transparent)
+![Stats](./profile/stats.svg)
 
 <!--START_SECTION:waka-->
 
