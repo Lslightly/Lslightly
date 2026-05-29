@@ -5,13 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 33 mins
+Total Time: 10 hrs 19 mins
 
-Markdown   11 hrs 54 mins        ███████████████████████▓░   94.79 %
-YAML       18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Other      15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-JSON       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-TOML       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Markdown   9 hrs 30 mins         ███████████████████████░░   92.08 %
+BibTeX     38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Other      10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
