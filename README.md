@@ -5,14 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 34 mins
+Total Time: 0 secs
 
-Markdown   5 hrs 30 mins         █████████████░░░░░░░░░░░░   52.05 %
-Go         4 hrs                 █████████▒░░░░░░░░░░░░░░░   37.86 %
-C++        55 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-TOML       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-YAML       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
