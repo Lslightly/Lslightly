@@ -5,9 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 14 mins
 
-Markdown   0 secs                █████████████████████████   100.00 %
+Go         1 hr 47 mins          ████████████████████░░░░░   79.37 %
+Markdown   25 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Bash       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
