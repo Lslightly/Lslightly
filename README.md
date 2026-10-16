@@ -5,15 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 29 mins
+Total Time: 1 hr 7 mins
 
-Rust         2 hrs 5 mins          ███████░░░░░░░░░░░░░░░░░░   28.02 %
-Markdown     1 hr 37 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-Typst        1 hr 28 mins          █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-JavaScript   1 hr 21 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-Bash         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-JSON         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-YAML         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Rust         1 hr 7 mins           █████████████████████████   99.89 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
