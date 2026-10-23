@@ -5,11 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 7 mins
+Total Time: 0 secs
 
-Rust         1 hr 7 mins           █████████████████████████   99.89 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
