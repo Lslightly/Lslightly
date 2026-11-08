@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Stats](./profile/stats.svg)
+[![Lslightly's GitHub stats](https://github-stats-extended.vercel.app/api?username=Lslightly)](https://github.com/stats-organization/github-stats-extended)
 
 <!--START_SECTION:waka-->
 
